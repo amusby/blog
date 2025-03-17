@@ -35,18 +35,19 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+interests: 
+  - Теоретическая механика
+  - Машинное обучение
+  - Астрономия
+  - Фигурное катание
 
 education:
   - area: Student
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-05-31
-    summary: 
-      
+    summary: Изучаю математику и механику, интересуюсь моделированием физических процессов и аналитикой данных.
+
 work:
   - position: Student
     company_name: RUDN
@@ -54,7 +55,7 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 
+    summary: Изучаю высшую математику, механику и программирование, применяю знания в исследованиях.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -62,36 +63,39 @@ skills:
   - name: Хард скиллы
     items:
       - name: Python
-        description: ''
-        percent: 60
+        description: Использую для математического моделирования и анализа данных
+        percent: 70
         icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
+      - name: MATLAB
+        description: Решение задач механики и построение моделей
+        percent: 60
         icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
+      - name: Аналитическое мышление
+        description: Способность решать сложные математические задачи
+        percent: 85
         icon: circle-stack
   - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
-        description: ''
-        percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
+      - name: Фигурное катание
+        description: Занимаюсь на любительском уровне
+        percent: 90
+      - name: Астрономия
+        description: Интересуюсь космосом и физикой звезд
         percent: 80
+      - name: Чтение научных статей
+        description: Люблю изучать новые открытия в математике и механике
+        percent: 85
 
 languages:
   - name: Русский
     percent: 100
   - name: Английский
-    percent: 60
+    percent: 70
+  - name: Немецкий
+    percent: 50
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
